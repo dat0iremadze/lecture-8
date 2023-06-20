@@ -94,3 +94,16 @@ nav a:hover {
 		transform: translateY(0px);
 	}
 }
+
+
+.headset3{
+	position: absolute;
+	top: 30%;
+	left: 18%;
+	font-size: 16px;
+}
+
+h1 {
+	color: violet;
+	text-shadow: 2px 2px blue;
+}
